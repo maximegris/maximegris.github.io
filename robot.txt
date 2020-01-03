@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /*.jpg$
+Disallow: /*.png$
+Disallow: /*.gif$
+Disallow: /images/
+Disallow: /icons/
+Disallow: /illustration/
+Disallow: /assets/
+Allow: /
